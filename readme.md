@@ -1,4 +1,4 @@
-# Godec bot
+# Music bot
 
 ## Yet another discord music bot
 
